@@ -115,12 +115,6 @@
     <Compile Include="EmployeeLogin.Designer.cs">
       <DependentUpon>EmployeeLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Student\Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Student\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Student\StudentList.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -277,9 +271,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="EmployeeLogin.resx">
       <DependentUpon>EmployeeLogin.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Student\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Student\StudentList.resx">
       <DependentUpon>StudentList.cs</DependentUpon>

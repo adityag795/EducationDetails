@@ -43,7 +43,6 @@
             this.studentsListToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.FindUpdate = new System.Windows.Forms.ToolStripMenuItem();
             this.reportToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sampleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -146,8 +145,7 @@
             // 
             this.detailsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.studentsListToolStripMenuItem,
-            this.FindUpdate,
-            this.sampleToolStripMenuItem});
+            this.FindUpdate});
             this.detailsToolStripMenuItem.Font = new System.Drawing.Font("Dubai Medium", 11F);
             this.detailsToolStripMenuItem.Name = "detailsToolStripMenuItem";
             this.detailsToolStripMenuItem.Size = new System.Drawing.Size(67, 29);
@@ -173,13 +171,6 @@
             this.reportToolStripMenuItem.Name = "reportToolStripMenuItem";
             this.reportToolStripMenuItem.Size = new System.Drawing.Size(67, 29);
             this.reportToolStripMenuItem.Text = "Report";
-            // 
-            // sampleToolStripMenuItem
-            // 
-            this.sampleToolStripMenuItem.Name = "sampleToolStripMenuItem";
-            this.sampleToolStripMenuItem.Size = new System.Drawing.Size(186, 30);
-            this.sampleToolStripMenuItem.Text = "Sample";
-            this.sampleToolStripMenuItem.Click += new System.EventHandler(this.sampleToolStripMenuItem_Click);
             // 
             // Menu
             // 
@@ -217,7 +208,6 @@
         private System.Windows.Forms.ToolStripMenuItem FindUpdate;
         private System.Windows.Forms.ToolStripMenuItem reportToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem studentsListToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem sampleToolStripMenuItem;
 
 
 
