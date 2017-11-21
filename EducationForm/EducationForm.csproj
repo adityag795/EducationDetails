@@ -203,12 +203,6 @@
     <Compile Include="Student\StudentInformation.Designer.cs">
       <DependentUpon>StudentInformation.cs</DependentUpon>
     </Compile>
-    <Compile Include="LoginForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="LoginForm.Designer.cs">
-      <DependentUpon>LoginForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="Master\MasterCity.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -292,9 +286,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Student\StudentInformation.resx">
       <DependentUpon>StudentInformation.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="LoginForm.resx">
-      <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Master\MasterCity.resx">
       <DependentUpon>MasterCity.cs</DependentUpon>
