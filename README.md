@@ -4,8 +4,11 @@ This is a Windows Forms application for adding student details, calculating thei
 Minimum Software Requirements to run this .sln file:
 
 Microsoft Windows XP
+
 Microsoft Visual Studio 2010
+
 SQL Server Management Studio (2005 or above)
+
 Please rename the connection strings as per your requirements.
 
 SQL Queries to create Master Tables:
