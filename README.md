@@ -1,4 +1,4 @@
-# EducationForm
+# EducationDetails
 This is a Windows Forms application for adding student details, calculating their pending fees and generating a Crystal Report.
 
 Minimum Software Requirements to run this .sln file:
